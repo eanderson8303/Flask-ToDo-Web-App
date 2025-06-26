@@ -2,7 +2,7 @@
 
 A simple task-tracking web application built using **Python**, **Flask**, and **SQLite**. Users can add and delete tasks with a clean, responsive UI.
 
-![screenshot](https://via.placeholder.com/600x300.png?text=Screenshot+Coming+Soon)
+![TodoAppPic](https://github.com/user-attachments/assets/33995f36-6f0c-4a5d-87fd-747f55a97a67)
 
 ---
 
@@ -30,20 +30,20 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eanderson8303/flask-todo-app.git
-   cd flask-todo-app
+   git clone https://github.com/eanderson8303/Flask-ToDo-Web-App.git
+   cd Flask-ToDo-Web-App
 
 2. Set up a virtual enviornment:
-    ```bash
+   ```bash
     python -m venv venv
     venv\Scripts\activate
 
 3. Install Flask:
-    ```bash
+   ```bash
     pip install flask
 
 4. Run the app:
-    ```bash
+   ```bash
     python app.py
 
 5. Open your browser:
