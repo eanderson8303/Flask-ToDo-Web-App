@@ -34,13 +34,16 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
    cd flask-todo-app
 
 2. Set up a virtual enviornment:
+   ```bash
     python -m venv venv
     venv\Scripts\activate
 
 3. Install Flask:
+   ```bash
     pip install flask
 
 4. Run the app:
+   ```bash
     python app.py
 
 5. Open your browser:
