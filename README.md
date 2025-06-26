@@ -2,7 +2,7 @@
 
 A simple task-tracking web application built using **Python**, **Flask**, and **SQLite**. Users can add and delete tasks with a clean, responsive UI.
 
-![screenshot](https://via.placeholder.com/600x300.png?text=Screenshot+Coming+Soon)
+![TodoAppPic](https://github.com/user-attachments/assets/33995f36-6f0c-4a5d-87fd-747f55a97a67)
 
 ---
 
