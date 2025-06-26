@@ -30,8 +30,8 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eanderson8303/flask-todo-app.git
-   cd flask-todo-app
+   git clone https://github.com/eanderson8303/Flask-ToDo-Web-App.git
+   cd Flask-ToDo-Web-App
 
 2. Set up a virtual enviornment:
    ```bash
