@@ -1,4 +1,4 @@
-# Flask To-Do List App 📝
+# Flask To-Do List App 
 
 A simple task-tracking web application built using **Python**, **Flask**, and **SQLite**. Users can add and delete tasks with a clean, responsive UI.
 
@@ -6,7 +6,7 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add new tasks to a persistent to-do list
 - Delete tasks from the list
@@ -16,7 +16,7 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **Flask**
@@ -26,7 +26,7 @@ A simple task-tracking web application built using **Python**, **Flask**, and **
 
 ---
 
-## 🛠 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
    ```bash
